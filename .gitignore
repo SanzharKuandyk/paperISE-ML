@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+
+# Data / results
+replication/data/
+replication/bin/
+replication/results/
+*.csv
+
+# System
+.DS_Store
+*.swp
